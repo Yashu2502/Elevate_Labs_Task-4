@@ -7,9 +7,12 @@ steps were taken to clean and transform the data:
 • Handled Missing Values: 
 1) Missing Instructor, Class Type, Facility, and Theme values were replaced with 
 "Unknown".
+
 2)Missing Duration (mins) values were filled using the median duration.
+
 3)Missing Customer Email and Customer Phone were replaced with "Not 
 Provided". 
+
 • Removed Duplicates: 
 1)Identified and removed duplicate records based on Booking ID. 
 • Data Type Corrections: 
