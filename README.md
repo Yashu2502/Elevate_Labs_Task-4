@@ -5,7 +5,7 @@
 The raw dataset contained imperfections, inconsistencies, and missing values. The following 
 steps were taken to clean and transform the data:
 
-• Handled Missing Values: 
+***Handled Missing Values:*** 
 
 1)Missing Instructor, Class Type, Facility, and Theme values were replaced with 
 "Unknown".
@@ -15,17 +15,17 @@ steps were taken to clean and transform the data:
 3)Missing Customer Email and Customer Phone were replaced with "Not 
 Provided". 
 
-• Removed Duplicates: 
+***Removed Duplicates:*** 
 
 1)Identified and removed duplicate records based on Booking ID. 
 
-• Data Type Corrections: 
+***Data Type Corrections:***
 
 1)Booking Date was converted to the correct date format. 
 
 2)Price and Duration (mins) were converted to numeric values. 
 
-• Fixed Inconsistencies in Categorical Data: 
+***Fixed Inconsistencies in Categorical Data:***
 
 1)Standardized values for Status and Booking Type (capitalization and spelling 
 inconsistencies corrected).
