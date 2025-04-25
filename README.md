@@ -37,28 +37,28 @@ inconsistencies corrected).
 
 ***Total Bookings and Revenue*** 
 
-• Total Unique Bookings:  Displayed via KPI Card in Power BI. 
+1)Total Unique Bookings:  Displayed via KPI Card in Power BI. 
 
-• Total Revenue Generated: Displayed via KPI Card in Power BI. 
+2)Total Revenue Generated: Displayed via KPI Card in Power BI. 
 
 ***Booking Trends Over Time*** 
 
-• A line chart was used to show the number of bookings per month, revealing seasonal 
+1)A line chart was used to show the number of bookings per month, revealing seasonal 
 trends and peak periods.
 
 ***Booking Type Distribution*** 
 
-• A bar chart visualized the distribution of different booking types, identifying which 
+1)A bar chart visualized the distribution of different booking types, identifying which 
 services were most popular.
 
 ***Booking Status Breakdown*** 
 
-• A pie chart was used to illustrate the percentage of completed, pending, and 
+1)A pie chart was used to illustrate the percentage of completed, pending, and 
 cancelled bookings. 
 
 ***Revenue Breakdown by Booking Type*** 
 
-• A bar chart displayed revenue contributions by different booking types, highlighting 
+1)A bar chart displayed revenue contributions by different booking types, highlighting 
 the highest revenue-generating services. 
 
 
