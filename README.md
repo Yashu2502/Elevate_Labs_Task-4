@@ -5,7 +5,7 @@
 The raw dataset contained imperfections, inconsistencies, and missing values. The following 
 steps were taken to clean and transform the data: 
 • Handled Missing Values: 
-1) Missing Instructor, Class Type, Facility, and Theme values were replaced with 
+1)Missing Instructor, Class Type, Facility, and Theme values were replaced with 
 "Unknown".
 
 2)Missing Duration (mins) values were filled using the median duration.
