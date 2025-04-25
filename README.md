@@ -1,7 +1,9 @@
 # Elevate_Labs_Task-4
 
 **Data Cleaning & Transformation**
+
 ***Data Issues Identified***
+
 The raw dataset contained imperfections, inconsistencies, and missing values. The following 
 steps were taken to clean and transform the data:
 
